@@ -1,0 +1,16 @@
+C:\Users\djand\workspace\serverside\ch07\bin\Debug\net5.0\ch07.exe
+C:\Users\djand\workspace\serverside\ch07\bin\Debug\net5.0\ch07.deps.json
+C:\Users\djand\workspace\serverside\ch07\bin\Debug\net5.0\ch07.runtimeconfig.json
+C:\Users\djand\workspace\serverside\ch07\bin\Debug\net5.0\ch07.runtimeconfig.dev.json
+C:\Users\djand\workspace\serverside\ch07\bin\Debug\net5.0\ch07.dll
+C:\Users\djand\workspace\serverside\ch07\bin\Debug\net5.0\ref\ch07.dll
+C:\Users\djand\workspace\serverside\ch07\bin\Debug\net5.0\ch07.pdb
+C:\Users\djand\workspace\serverside\ch07\obj\Debug\net5.0\ch07.csproj.AssemblyReference.cache
+C:\Users\djand\workspace\serverside\ch07\obj\Debug\net5.0\ch07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djand\workspace\serverside\ch07\obj\Debug\net5.0\ch07.AssemblyInfoInputs.cache
+C:\Users\djand\workspace\serverside\ch07\obj\Debug\net5.0\ch07.AssemblyInfo.cs
+C:\Users\djand\workspace\serverside\ch07\obj\Debug\net5.0\ch07.csproj.CoreCompileInputs.cache
+C:\Users\djand\workspace\serverside\ch07\obj\Debug\net5.0\ch07.dll
+C:\Users\djand\workspace\serverside\ch07\obj\Debug\net5.0\ref\ch07.dll
+C:\Users\djand\workspace\serverside\ch07\obj\Debug\net5.0\ch07.pdb
+C:\Users\djand\workspace\serverside\ch07\obj\Debug\net5.0\ch07.genruntimeconfig.cache
